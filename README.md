@@ -1,4 +1,4 @@
-# Task 3 – SQL Queries (Pagila Database)
+# Task 1 – SQL Queries (Pagila Database)
 
 This project contains solutions to SQL analytical tasks using the Pagila (DVD Rental) demo database.
 
